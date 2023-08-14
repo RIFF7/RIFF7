@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **syarifudinjaelani@gmail.com**
 
-- ⚡ Fun fact **I think, I am Fast to Learn a new skill**
+- ⚡ Fun fact **I think, I am Fast to Learn a New Skill**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
