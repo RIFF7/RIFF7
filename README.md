@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riff7&label=Profile%20views&color=0e75b6&style=flat" alt="riff7" /> </p>
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning **Data Analyst**
 
 - 📫 How to reach me **syarifudinjaelani@gmail.com**
 
